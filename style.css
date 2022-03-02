@@ -14,3 +14,20 @@
     align-items: center;
     color: white;
 }
+
+
+
+
+.div3{
+    background-color: #ebebd3;
+    text-align: center;
+    height: 200px;
+    padding: 20px;
+
+}
+
+img{
+    height: 300px;
+    width: 200px;
+    border-radius: 50%;
+}
