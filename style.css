@@ -86,6 +86,8 @@ img{
     /* border-radius: 50%; */
 }
 
-.text{
-    text-align: right;
+.div3{
+    color: blueviolet;
+    font-size: larger;
+    text-align: center;
 }
