@@ -89,5 +89,6 @@ img{
 .div3{
     color: blueviolet;
     font-size: larger;
-    text-align: center;
+    text-align: end right;  
+    height: 200px;
 }
